@@ -9,7 +9,7 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 ### Project Overview
-Dataset Description:
+## Dataset Description
 The dataset covers health-related indicators, providing a detailed look into health access, mortality, and disease-specific statistics. Key fields in the dataset include:
 ○     Location ID/Name: Identifies the geographical region.
 ○     Year: Year of data collection (1990 and 2019).
