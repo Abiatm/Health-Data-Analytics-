@@ -11,14 +11,13 @@
 ### Project Overview
 ## Dataset Description
  Key fields in the dataset include:
-○     Location ID/Name: Identifies the geographical region.
-○     Year: Year of data collection (1990 and 2019).
-○     Age Group: "Age-standardized" grouping of health indicators.
-○     Indicator Name: Diseases or health indicators (e.g., Tuberculosis, Respiratory infections).
-○     HAQ Index: Health Access and Quality Index.
-○     Mortality-to-Incidence Ratio (MIR): The ratio of deaths to new cases of a disease.
-○     Risk-Standardized Death Rate (RSD): Adjusted mortality rate for different diseases.
-○     Confidence Intervals: Upper and lower bounds for reported values.
+- Location ID/Name: Identifies the geographical region.
+- Year: Year of data collection (1990 and 2019).
+- Age Group: "Age-standardized" grouping of health indicators.
+- Indicator Name: Diseases or health indicators (e.g., Tuberculosis, Respiratory infections).
+- HAQ Index: Health Access and Quality Index.
+- Mortality-to-Incidence Ratio (MIR): The ratio of deaths to new cases of a disease.
+- Confidence Intervals: Upper and lower bounds for reported values.
 
 ![DSN_med](https://github.com/user-attachments/assets/4e213c1e-30b2-48b0-b391-034c6c94a76e)
 
