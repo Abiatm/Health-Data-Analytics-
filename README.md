@@ -19,7 +19,8 @@
 - Mortality-to-Incidence Ratio (MIR): The ratio of deaths to new cases of a disease.
 - Confidence Intervals: Upper and lower bounds for reported values.
 
-![DSN_med](https://github.com/user-attachments/assets/4e213c1e-30b2-48b0-b391-034c6c94a76e)
+
+![DASHBOARD](https://github.com/user-attachments/assets/5db3196c-048b-4f46-9d63-4619e457b691)
 
 ### Problem Statement
 #### The problems that need to be addressed are:
