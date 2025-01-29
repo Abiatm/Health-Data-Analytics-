@@ -75,7 +75,7 @@ Based on the obtained results from the analysis, the following recommendations a
 
 2. Address key cancer types: Colon and rectal cancer, Hodgkin lymphoma, and cervical cancer, being the leading causes of high MIR in many countries, require increased attention through targeted prevention, early detection, and improved treatment strategies.
 
-3. Foster knowledge exchange: Countries with low Human Activity Assessment (HAQ) indices and high MIR/RSD ratios should actively learn from the successful strategies of top-performing countries with high HAQ indices, particularly in areas of healthcare access, quality of care, and health system organization.
+3. Foster knowledge exchange: Countries with low  (HAQ) indices and high MIR/RSD ratios should actively learn from the successful strategies of top-performing countries with high HAQ indices, particularly in areas of healthcare access, quality of care, and health system organization.
 
 4. Invest in comprehensive healthcare support: Increased allocation of resources, enhanced public health campaigns, and improved access to medical facilities are crucial for countries with low HAQ indices, particularly with respect to the specific disease burdens and age-related health needs within their populations.
 
